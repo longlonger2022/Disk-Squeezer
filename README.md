@@ -1,4 +1,4 @@
-# Hard-drive-squeezer
+# Hard-drive-squeezer 硬盘榨干器
 Chinese Simplified（简体中文）： 请谨慎使用！ 这些程序可以用于榨干电脑硬盘空间！ 
 
 Chinese Traditional（繁體中文）： 請謹慎使用！ 這些程式可以用於榨乾電腦硬碟空間！ 
