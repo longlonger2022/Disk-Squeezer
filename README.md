@@ -3,7 +3,7 @@
 Please use with caution! These programs can be used to drain space on your computer's hard drive! 
 
 Welcome to my Bilibili homepage: 
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=3493110082439389&theme=system)
+![B站统计](https://stats.justsong.cn/api/bilibili/?id=3493110082439389&theme=System)
 
 ## Changelog
 
