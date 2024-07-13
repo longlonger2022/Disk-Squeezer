@@ -11,7 +11,7 @@ Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493
 
 ### Disk-Squeezer 1.5
 - Convert to a 64-bit program.
-- Support dual switching of Chinese Simplified Chinese and English.
+- Support dual switching of Simplified Chinese and English.
 - Added the "About" option.
 
 ### Disk-Squeezer 2.0-Alpha
