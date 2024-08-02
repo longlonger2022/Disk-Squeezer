@@ -1,3 +1,5 @@
+Choose language: [English](https://github.com/longlonger2022/Disk-Squeezer/blob/main/README.md) [简体中文](https://github.com/longlonger2022/Disk-Squeezer/blob/main/README_zh-CN.md)
+
 # Disk-Squeezer
 ![icon](https://longlonger2022.github.io/img/Disk-Squeezer.256px.ico)
 
@@ -24,7 +26,9 @@ Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493
 - Added the "About" option.
 
 ### Disk-Squeezer 2.0-Alpha
-- It has a GUI interface
+- It has a GUI interface.
+- It is very unstable, many functions cannot be used.
+- It is not fully completed, so it is not recommended to use it.
 
 ### Disk-Squeezer 1.4
 - Added command mode.
