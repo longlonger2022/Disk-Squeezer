@@ -8,7 +8,8 @@ Please use with caution! These programs can be used to drain space on your compu
 Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493110082439389)
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=3493110082439389&theme=dark)
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=3493110082439389&theme=dark&lang=zh-CN)
+
+---
 
 ## Changelog
 
