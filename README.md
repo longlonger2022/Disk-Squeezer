@@ -1,7 +1,8 @@
 
 ---
 
-Choose language: [English](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#disk-squeezer) [简体中文](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#硬盘榨干器)
+# English
+Choose language: [English](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#Enlish) [简体中文](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#简体中文)
 
 # Disk-Squeezer
 ![icon](https://longlonger2022.github.io/img/Disk-Squeezer.256px.ico)
@@ -55,7 +56,8 @@ Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493
 
 ---
 
-选择语言(Language)：[English](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#disk-squeezer) [简体中文](https://github.com/longlonger2022/Disk-Squeezer?tab-ov-file#硬盘榨干器)
+# 简体中文
+选择语言(Language)：[English](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#English) [简体中文](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#简体中文)
 
 # 硬盘榨干器
 ![icon](https://longlonger2022.github.io/img/Disk-Squeezer.256px.ico)
