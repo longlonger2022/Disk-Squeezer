@@ -6,6 +6,7 @@ Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=3493110082439389&theme=dark)
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=3493110082439389&theme=dark&lang=zh-CN)
+![icon](https://longlonger2022.github.io/img/Disk-Squeezer.256px.ico)
 
 ## Changelog
 
