@@ -9,6 +9,11 @@ Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493
 
 ## Changelog
 
+### Disk-Squeezer 2.0-Beta
+- It has a GUI interface, used Qt.
+- It is much more stable than the version 2.0-Alpha, and it can use write mode, and will not be unresponsive.
+- command mode will be very fast.
+
 ### Disk-Squeezer 1.5
 - Convert to a 64-bit program.
 - Support dual switching of Simplified Chinese and English.
