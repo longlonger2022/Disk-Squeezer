@@ -1,4 +1,4 @@
-选择语言(Language)：[English](https://github.com/longlonger2022/Disk-Squeezer/blob/main/README.md)  [简体中文](https://github.com/longlonger2022/Disk-Squeezer/blob/main/README_zh-CN.md)
+选择语言(Language)：[English](https://github.com/longlonger2022/Disk-Squeezer/blob/main/README.md) [简体中文](https://github.com/longlonger2022/Disk-Squeezer/blob/main/README_zh-CN.md)
 
 # 硬盘榨干器
 ![icon](https://longlonger2022.github.io/img/Disk-Squeezer.256px.ico)
