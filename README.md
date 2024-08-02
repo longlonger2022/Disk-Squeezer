@@ -1,3 +1,5 @@
+---
+
 Choose language: [English](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#disk-squeezer) [简体中文](https://github.com/longlonger2022/Disk-Squeezer?tab-ov-file#硬盘榨干器)
 
 # Disk-Squeezer
@@ -50,6 +52,7 @@ Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493
 ### Disk-Squeezer Initial Release
 - The birth of Disk-Squeezer, the first version, was developed using Python.
 
+---
 
 选择语言(Language)：[English](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#disk-squeezer) [简体中文](https://github.com/longlonger2022/Disk-Squeezer?tab-ov-file#硬盘榨干器)
 
