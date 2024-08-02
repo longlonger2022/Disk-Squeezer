@@ -1,6 +1,8 @@
 # Disk-Squeezer
 ![icon](https://longlonger2022.github.io/img/Disk-Squeezer.256px.ico)
 
+---
+
 Please use with caution! These programs can be used to drain space on your computer's hard drive! 
 
 Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493110082439389)
