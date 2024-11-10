@@ -83,17 +83,27 @@ Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493
 
 ## 更新日志
 
-### Disk-Squeezer 2.0-Beta
+### 硬盘榨干器 2.0
+
+- 界面变得漂亮。
+- 添加了一些动画。
+- 命令模式会更快。
+- 开始时，窗口会自动隐藏。
+- 具有可以随时退出的系统托盘。
+- 当它结束时，将使用 Windows 消息提示。
+- 程序文件大小变小，许多无用的组件被删除。
+
+### 硬盘榨干器 2.0-Beta
 - 有GUI界面, 用了Qt库。
 - 比 2.0-Alpha 版稳定多了，可以使用写入模式，并且不会未响应。
 - 命令模式会变得非常快。
 
-### Disk-Squeezer 1.5
+### 硬盘榨干器 1.5
 - 转成64位。
 - 支持简体中文和English双语言切换。
 - 增加“关于”选项。
 
-### Disk-Squeezer 2.0-Alpha
+### 硬盘榨干器 2.0-Alpha
 - 增加了GUI界面。
 - 极其不稳定，不建议使用。
 - 速度极慢。
