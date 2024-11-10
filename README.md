@@ -19,6 +19,15 @@ Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493
 
 ## Changelog
 
+### Disk-Squeezer 2.0
+- The GUI was be beautiful.
+- Added some animation.
+- Command Mode will be faster.
+- At the beginning, the window is automatically hidden.
+- Has a system tray that can be exited at any time.
+- When it ends, a Windows message prompt will be used.
+- The program file size became smaller, and many useless components were removed.
+
 ### Disk-Squeezer 2.0-Beta
 - It has a GUI interface, used Qt.
 - It is much more stable than the version 2.0-Alpha, and it can use write mode, and will not be unresponsive.
