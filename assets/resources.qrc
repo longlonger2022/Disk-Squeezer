@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>images/icon.png</file>
+        <file>images/bilibili.svg</file>
+        <file>images/github.svg</file>
+    </qresource>
+</RCC>
