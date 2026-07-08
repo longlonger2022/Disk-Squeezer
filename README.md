@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/版本-3.0.0-blue)
 ![Qt](https://img.shields.io/badge/Qt-6.10.1-41CD52?logo=qt)
 ![License](https://img.shields.io/badge/许可证-GPLv3-green)
-![Platform](https://img.shields.io/badge/平台-Windows%20|%20Linux%20|%20Android-lightgrey)
+![Platform](https://img.shields.io/badge/平台-Windows%20|%20Linux%20|%20Android%20|%20MacOS%20|%20iOS-lightgrey)
 
 > **"十分嚎用的磁盘榨干工具👍"**
 
