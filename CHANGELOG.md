@@ -9,6 +9,7 @@
 - UI 风格按平台分化：
     - Android 平台采用 QML Material 风格界面（不知道这个版本的 QML 有什么神奇的问题，所以用 Material 风格以确保显示正常）。
     - 其他平台（Windows/Linux）采用 QML FluentWinUI3 风格界面。
+- 更新应用程序图标。
 
 ### 新增
 - 跨平台支持：现已正式支持 Windows、Linux 和 Android 三大平台。
