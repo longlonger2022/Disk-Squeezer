@@ -9,19 +9,6 @@ ApplicationWindow {
     height: Screen.height * 2 / 3
     visible: true
     title: qsTr("硬盘榨干器")
-    font.family: {
-        if (Qt.platform.os === "windows") {
-            return "Microsoft YaHei";
-        } else if (Qt.platform.os === "macos") {
-            return "PingFang SC";
-        } else if (Qt.platform.os === "ios") {
-            return "PingFang SC";
-        } else if (Qt.platform.os === "android") {
-            return "Noto Sans CJK SC";
-        } else {
-            return "Noto Sans CJK SC";
-        }
-    }
 
     property bool inTask: false
     property bool paused: false
