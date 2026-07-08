@@ -1,130 +1,71 @@
+<div align="center">
+
+# 硬盘榨干器 — Disk Squeezer
+
+![Version](https://img.shields.io/badge/版本-3.0.0-blue)
+![Qt](https://img.shields.io/badge/Qt-6.10.1-41CD52?logo=qt)
+![License](https://img.shields.io/badge/许可证-GPLv3-green)
+![Platform](https://img.shields.io/badge/平台-Windows%20|%20Linux%20|%20Android-lightgrey)
+
+> **"十分嚎用的磁盘榨干工具👍"**
+
+[![GitHub stars](https://img.shields.io/github/stars/0xlonger/Disk-Squeezer?style=social)](https://github.com/0xlonger/Disk-Squeezer)
+[![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-@龙ger__longer-FF6699?logo=bilibili)](https://space.bilibili.com/3493110082439389)
+
+</div>
 
 ---
 
-# English
-Choose language: [English](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#Enlish) [简体中文](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#简体中文)
+## 免责声明
 
-# Disk-Squeezer
-![icon](https://longlonger2022.github.io/img/Disk-Squeezer.256px.ico)
+本程序会可以将磁盘剩余空间占满，请谨慎使用。使用即表示您同意自行承担使用本程序可能带来的风险和后果。若出现使用造成的后果，可以向作者寻求帮助，作者仅提供已知问题的解决方案，不承担任何责任。
 
 ---
 
-Please use with caution! These programs can be used to drain space on your computer's hard drive! 
+## 功能
 
-Welcome to my Bilibili homepage: [龙ger_longer](https://space.bilibili.com/3493110082439389)
-
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=3493110082439389&theme=dark)
-
----
-
-## Changelog
-
-### Disk-Squeezer 2.0
-- The GUI was be beautiful.
-- Added some animation.
-- Command Mode will be faster.
-- At the beginning, the window is automatically hidden.
-- Has a system tray that can be exited at any time.
-- When it ends, a Windows message prompt will be used.
-- The program file size became smaller, and many useless components were removed.
-
-### Disk-Squeezer 2.0-Beta
-- It has a GUI interface, used Qt.
-- It is much more stable than the version 2.0-Alpha, and it can use write mode, and will not be unresponsive.
-- command mode will be very fast.
-
-### Disk-Squeezer 1.5
-- Convert to a 64-bit program.
-- Support dual switching of Simplified Chinese and English.
-- Added the "About" option.
-
-### Disk-Squeezer 2.0-Alpha
-- It has a GUI interface.
-- It is very unstable, many functions cannot be used.
-- It is not fully completed, so it is not recommended to use it.
-
-### Disk-Squeezer 1.4
-- Added command mode.
-
-### Disk-Squeezer 1.3
-- Added a progress bar.
-- Added the function of displaying content.
-
-### Disk-Squeezer 1.2
-- You only need to enter a drive letter, not a full path.
-
-### Disk-Squeezer 1.1
-- Added the ability to write paths.
-
-### Disk-Squeezer 1.0
-- The first official version of Disk-Squeezer.
-- Convert from Python to C++.
-
-### Disk-Squeezer Initial Release
-- The birth of Disk-Squeezer, the first version, was developed using Python.
+- **三种榨干模式**
+  - **写入模式** — 速度中等，逐块写入零字节文件，支持 **暂停/继续/取消**
+  - **命令模式** — 高速，调用系统原生命令（Windows: `fsutil`, PowerShell；Linux/macOS: `fallocate`, `dd`）
+  - **划区模式** — 极速，直接分配磁盘空间（Windows: `SetFilePointerEx`；Linux: `posix_fallocate`；最终回退: `QFile::resize`）
+- **图形界面** — 基于 Qt 6 + QML，FluentWinUI3 风格（Android 为 Material 风格）
+- **命令行支持** — 可在命令行输入参数静默运行
+- **自动静默榨干** — 可设置后下次启动自动榨干
+- **跨平台** — Windows、Linux、Android 全覆盖
 
 ---
 
-# 简体中文
-选择语言(Language)：[English](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#English) [简体中文](https://github.com/longlonger2022/Disk-Squeezer?tab=readme-ov-file#简体中文)
+## 界面预览
 
-# 硬盘榨干器
-![icon](https://longlonger2022.github.io/img/Disk-Squeezer.256px.ico)
-
----
-
-请小心使用！本程序可以榨干您电脑的存储空间！
-
-欢迎访问我的哔哩哔哩空间: [龙ger_longer](https://space.bilibili.com/3493110082439389)
-
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=3493110082439389&theme=dark&lang=zh-CN)
+![GUI](docs/screenshots/gui.png)
+![CLI](docs/screenshots/cli.png)
+![Android](docs/screenshots/gui-android.png)
 
 ---
 
-## 更新日志
+## 快速开始
 
-### 硬盘榨干器 2.0
+### 下载
 
-- 界面变得漂亮。
-- 添加了一些动画。
-- 命令模式会更快。
-- 开始时，窗口会自动隐藏。
-- 具有可以随时退出的系统托盘。
-- 当它结束时，将使用 Windows 消息提示。
-- 程序文件大小变小，许多无用的组件被删除。
+- 前往 [GitHub Releases 页面](https://github.com/0xlonger/Disk-Squeezer/releases) 下载对应系统和架构的预编译版本。
+- 前往 龙ger_longer 的个人网站 [GitHub Pages](https://0xlonger.github.io/products/Disk-Squeezer/download/) 或 [Cloudrflare Pages](https://lgr.pages.dev/products/Disk-Squeezer/download/) 下载对应系统和架构的预编译版本。
 
-### 硬盘榨干器 2.0-Beta
-- 有GUI界面, 用了Qt库。
-- 比 2.0-Alpha 版稳定多了，可以使用写入模式，并且不会未响应。
-- 命令模式会变得非常快。
+### 从源码构建
 
-### 硬盘榨干器 1.5
-- 转成64位。
-- 支持简体中文和English双语言切换。
-- 增加“关于”选项。
+#### 前置依赖
 
-### 硬盘榨干器 2.0-Alpha
-- 增加了GUI界面。
-- 极其不稳定，不建议使用。
-- 速度极慢。
+- **Qt 6.8+**（推荐 6.10.1）
+- **CMake 3.16+**
+- 平台相关：
+  - **Windows**：MSVC 或 MinGW
+  - **Linux**：g++ / clang，需安装 `libgl1-mesa-dev`
+  - **Android**：Android SDK + NDK
 
-### 硬盘榨干器 1.4
-- 增加核心功能：命令模式。
+#### 构建步骤
 
-### 硬盘榨干器 1.3
-- 增加了进度条。
-- 增加了自定义显示的功能。
-
-### 硬盘榨干器 1.2
-- 只需要输入盘符，而不是完整路径。
-
-### 硬盘榨干器 1.1
-- 增加了自定义路径的功能。
-
-### 硬盘榨干器 1.0
-- 硬盘榨干器的第一个正式版本。
-- 从 Python 转为 C++ 。
-
-### 硬盘榨干器 初始版本
-- 硬盘榨干器的诞生，是它的第一个版本。
-- 用 Python 编写。
+```bash
+git clone https://github.com/0xlonger/Disk-Squeezer.git
+cd Disk-Squeezer
+cmake -B build
+cmake --build build
+```
